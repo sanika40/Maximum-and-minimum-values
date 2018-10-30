@@ -1,0 +1,21 @@
+MAXIMUM NUMBER:
+Syntax : 
+max(a,b,c,..)
+Parameters : 
+a,b,c,.. :  similar type of data.
+Return Value : 
+Returns the maximum of all the arguments.
+Exceptions : 
+Returns TypeError when conflicting types are compared.
+
+
+
+MINIMUM NUMBER:
+Syntax : 
+min(a,b,c,..)
+Parameters : 
+a,b,c,.. :  similar type of data.
+Return Value : 
+Returns the minimum of all the arguments.
+Exceptions : 
+Returns TypeError when conflicting types are compared.
